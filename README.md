@@ -1,6 +1,6 @@
 # @omergulcicek/password-input
 
-React hook that adds show/hide toggle to password inputs.
+Simple and type-safe React hook for password inputs with built-in show/hide toggle.
 
 ![npm](https://img.shields.io/npm/v/@omergulcicek/password-input)
 ![bundlephobia](https://img.shields.io/bundlephobia/minzip/@omergulcicek/password-input)
