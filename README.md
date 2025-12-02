@@ -1,6 +1,6 @@
 # @omergulcicek/password-input
 
-Simple and type-safe React hook for password inputs with built-in show/hide toggle.
+Lightweight, **TypeScript-first** React hook for adding a **customizable show/hide toggle** to password fields. It supports **custom icons** (any React component) and flexible **class-based styling**, perfect for Tailwind integration.
 
 ![npm](https://img.shields.io/npm/v/@omergulcicek/password-input)
 ![bundlephobia](https://img.shields.io/bundlephobia/minzip/@omergulcicek/password-input)
